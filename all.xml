@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kbeaulieu.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-08T17:44:01.931Z</updated>
+    <updated>2021-11-09T05:36:33.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Phoenix 1.6.0 Released (Phoenix Framework)]]></title>
@@ -87,7 +87,7 @@ Phoenix LiveView –&nbsp;a step-change for web development]]></content>
         <title type="html"><![CDATA[undefined (Phoenix Framework)]]></title>
         <id>https://kbeaulieu.github.io/feeds/all.xml</id>
         <link href="https://kbeaulieu.github.io/feeds/all.xml"/>
-        <updated>2021-11-08T17:44:01.037Z</updated>
+        <updated>2021-11-09T05:36:32.753Z</updated>
         <content type="html"><![CDATA[<h5 class="card-header">Search</h5>
           <div class="card-body">
               <form role="search" method="get" action="/blog/search" id="searchform">
@@ -104,7 +104,7 @@ Phoenix LiveView –&nbsp;a step-change for web development]]></content>
         <title type="html"><![CDATA[undefined (Phoenix Framework)]]></title>
         <id>https://kbeaulieu.github.io/feeds/all.xml</id>
         <link href="https://kbeaulieu.github.io/feeds/all.xml"/>
-        <updated>2021-11-08T17:44:01.037Z</updated>
+        <updated>2021-11-09T05:36:32.753Z</updated>
         <content type="html"><![CDATA[<h5 class="card-header">Tags</h5>
           <div class="card-body">
             <div class="row">
@@ -141,7 +141,7 @@ Phoenix LiveView –&nbsp;a step-change for web development]]></content>
         <title type="html"><![CDATA[undefined (Phoenix Framework)]]></title>
         <id>https://kbeaulieu.github.io/feeds/all.xml</id>
         <link href="https://kbeaulieu.github.io/feeds/all.xml"/>
-        <updated>2021-11-08T17:44:01.049Z</updated>
+        <updated>2021-11-09T05:36:32.754Z</updated>
         <content type="html"><![CDATA[<h5 class="card-header">Recent Posts</h5>
           <div class="card-body">
             <ul class="list-unstyled mb-0">
