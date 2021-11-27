@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.phoenixframework.org/blog</id>
     <title>Phoenix Framework</title>
-    <updated>2021-11-27T05:35:49.907Z</updated>
+    <updated>2021-11-27T17:42:36.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.phoenixframework.org/favicon.ico</icon>
     <entry>
@@ -88,7 +88,7 @@ Phoenix LiveView –&nbsp;a step-change for web development]]></content>
         <title type="html"><![CDATA[11]]></title>
         <id>https://www.phoenixframework.org/blog</id>
         <link href="https://www.phoenixframework.org/blog"/>
-        <updated>2021-11-27T05:35:49.230Z</updated>
+        <updated>2021-11-27T17:42:35.865Z</updated>
         <content type="html"><![CDATA[<h5 class="card-header">Search</h5>
           <div class="card-body">
               <form role="search" method="get" action="/blog/search" id="searchform">
@@ -105,7 +105,7 @@ Phoenix LiveView –&nbsp;a step-change for web development]]></content>
         <title type="html"><![CDATA[12]]></title>
         <id>https://www.phoenixframework.org/blog</id>
         <link href="https://www.phoenixframework.org/blog"/>
-        <updated>2021-11-27T05:35:49.233Z</updated>
+        <updated>2021-11-27T17:42:35.865Z</updated>
         <content type="html"><![CDATA[<h5 class="card-header">Tags</h5>
           <div class="card-body">
             <div class="row">
@@ -142,7 +142,7 @@ Phoenix LiveView –&nbsp;a step-change for web development]]></content>
         <title type="html"><![CDATA[13]]></title>
         <id>https://www.phoenixframework.org/blog</id>
         <link href="https://www.phoenixframework.org/blog"/>
-        <updated>2021-11-27T05:35:49.236Z</updated>
+        <updated>2021-11-27T17:42:35.869Z</updated>
         <content type="html"><![CDATA[<h5 class="card-header">Recent Posts</h5>
           <div class="card-body">
             <ul class="list-unstyled mb-0">
